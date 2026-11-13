@@ -1,0 +1,8 @@
+001|arroz|alimentos|10|25
+002|frijol|alimentos|10|25
+003|leche|lacteos|10|14
+004|aceite|alimentos|10|20
+005|cafe|alimentos|20|50
+006|huevos|alimentos|30|20
+007|pan|alimentos|14|20
+008|papel higienico|higiene|20|25
